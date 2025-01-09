@@ -8,6 +8,7 @@
 * [Ephemeral container](https://kubernetes.io/docs/tasks/debug/debug-application/debug-running-pod/#ephemeral-container)
 * [netshoot Docker image](https://github.com/nicolaka/netshoot)
 * [Nixery - ad hoc Docker registry](https://nixery.dev)
+* [Spying on a Ruby process's memory allocations with eBPF](https://jvns.ca/blog/2018/01/31/spying-on-a-ruby-process-s-memory-allocations/)
 
 ## Build Ruby
 
