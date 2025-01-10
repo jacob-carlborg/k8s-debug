@@ -10,6 +10,10 @@
 * [Nixery - ad hoc Docker registry](https://nixery.dev)
 * [Spying on a Ruby process's memory allocations with eBPF](https://jvns.ca/blog/2018/01/31/spying-on-a-ruby-process-s-memory-allocations/)
 
+* [DTrace ustack macOS](https://www.mail-archive.com/dtrace-discuss@opensolaris.org/msg04668.html)
+* [Restoring the python dtrace ustack helper](https://omnios.org/article/python-ustack?)
+* [python-dtrace-tracker](https://github.com/benesch/python-dtrace-tracker)
+
 ## Build Ruby
 
 Enable DTrace by passing `--enable-dtrace` to the configure script.
